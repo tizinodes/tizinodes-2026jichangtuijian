@@ -204,7 +204,7 @@
 
 </details>
 
-🔗 [详细评测](https://tizinodes.com/reviews/jiuyun)　｜　[官网可用性检测](https://tizinodes.com/airport-test/jiuyun)　｜　官网链接待补充
+🔗 [详细评测](https://tizinodes.com/reviews/jiuyun)　｜　[官网可用性检测](https://tizinodes.com/airport-test/jiuyun)　｜　[前往官网 ↗](https://tizinodes.com/go/jiuyun)
 
 ### 七、秒秒云（BGP 多线中转 / 三网优化 ｜ ¥14/月起）
 
