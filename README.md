@@ -1,6 +1,6 @@
 # 2026 机场推荐（TiziNodes 持续更新）
 
-> 最后更新：2026-09-05　｜　🌐 官网 <https://tizinodes.com>　｜　📢 Telegram <https://t.me/TiziNodes>
+> 最后更新：2026-09-12　｜　🌐 官网 <https://tizinodes.com>　｜　📢 Telegram <https://t.me/TiziNodes>
 
 本文基于 **TiziNodes 收录的机场公开套餐、价格与线路资料**整理，按长期稳定、线路质量与性价比排序推荐。
 
@@ -29,16 +29,17 @@
   - 十四、跨界云
   - 十五、Firefly
   - 十六、光速云
-  - 十七、唯兔云
-  - 十八、快狸
-  - 十九、极连云
-  - 二十、光年梯
-  - 二十一、一翻云
-  - 二十二、U1S1
-  - 二十三、全球云
-  - 二十四、sogo云
-  - 二十五、速界
-  - 二十六、可信云
+  - 十七、宝云
+  - 十八、唯兔云
+  - 十九、快狸
+  - 二十、极连云
+  - 二十一、光年梯
+  - 二十二、一翻云
+  - 二十三、U1S1
+  - 二十四、全球云
+  - 二十五、sogo云
+  - 二十六、速界
+  - 二十七、可信云
 - [如何选择适合自己的机场](#如何选择适合自己的机场)
 - [FAQ](#faq)
 - [为什么相信本文](#为什么相信本文)
@@ -450,7 +451,32 @@
 
 🔗 [详细评测](https://tizinodes.com/reviews/guangsuyun)　｜　[官网可用性检测](https://tizinodes.com/airport-test/guangsuyun)　｜　[前往官网 ↗](https://tizinodes.com/go/guangsuyun)
 
-### 十七、唯兔云（IEPL/IPLC/中转 ｜ ¥14.9/月起）
+### 十七、宝云（海外中转（VLESS） ｜ ¥4/月起）
+
+**一句话评价：** 宝云主打海外中转线路与 VLESS 协议，节点覆盖香港、日本、台湾、新加坡、美国，套餐从 ¥4/月的福宝到 ¥13/月的金宝，另有传家宝 / 传世宝 / 传承宝三档一次性买断与季付特惠；官方标注支持 ChatGPT、Gemini 与常规流媒体，定位偏日常网页、AI 与高清视频综合使用。
+
+- **套餐**：7 档，月付 ¥4 起，最高 约 1000 GB · 支持买断
+- **线路**：海外中转（VLESS）（官方标注）
+- **付费方式**：月付 / 季付 / 一次性买断
+- **适合**：预算有限、想低成本入门的用户、想按季度试用、不愿一次年付的用户、不想按月续费、偏好一次性买断的用户、大流量、重度下载或多设备的用户
+
+<details><summary>📦 套餐详情（点击展开）</summary>
+
+| 套餐 | 流量 | 价格 |
+|---|---|---|
+| 福宝 | 200GB | ¥4/月 |
+| 财宝 | 500GB | ¥8/月 |
+| 金宝 | 1000GB | ¥13/月 |
+| 季付特惠 | 见官网 | ¥19/季 |
+| 传家宝 | 100GB | ¥29/一次性 |
+| 传世宝 | 500GB | ¥39/一次性 |
+| 传承宝 | 1000GB | ¥59/一次性 |
+
+</details>
+
+🔗 [详细评测](https://tizinodes.com/reviews/baoyun)　｜　[官网可用性检测](https://tizinodes.com/airport-test/baoyun)　｜　官网链接待补充
+
+### 十八、唯兔云（IEPL/IPLC/中转 ｜ ¥14.9/月起）
 
 **一句话评价：** 唯兔云采用以 .9 结尾的定价风格，月付从 14.9 元入门版到 119.9 元至尊版，另有一次性不限时包。入门月付门槛在同类中相对偏低。
 
@@ -474,7 +500,7 @@
 
 🔗 [详细评测](https://tizinodes.com/reviews/weituyun)　｜　[官网可用性检测](https://tizinodes.com/airport-test/weituyun)　｜　[前往官网 ↗](https://tizinodes.com/go/weituyun)
 
-### 十八、快狸（VLESS 专线 ｜ ¥15/月起）
+### 十九、快狸（VLESS 专线 ｜ ¥15/月起）
 
 **一句话评价：** 快狸 全线路 VLESS 专线，4K 秒开
 
@@ -498,7 +524,7 @@
 
 🔗 [详细评测](https://tizinodes.com/reviews/kuaili)　｜　[官网可用性检测](https://tizinodes.com/airport-test/kuaili)　｜　[前往官网 ↗](https://tizinodes.com/go/kuaili)
 
-### 十九、极连云（IEPL/IPLC/中转 ｜ ¥18/月起）
+### 二十、极连云（IEPL/IPLC/中转 ｜ ¥18/月起）
 
 **一句话评价：** 极连云提供基础到尊享的月付四档（约 18–122 元）以及一次性不限时套餐，另有限时年付体验包，档位结构清晰、跨度均衡。
 
@@ -522,7 +548,7 @@
 
 🔗 [详细评测](https://tizinodes.com/reviews/jilianyun)　｜　[官网可用性检测](https://tizinodes.com/airport-test/jilianyun)　｜　[前往官网 ↗](https://tizinodes.com/go/jilianyun)
 
-### 二十、光年梯（IEPL/IPLC/中转 ｜ ¥18/月起）
+### 二十一、光年梯（IEPL/IPLC/中转 ｜ ¥18/月起）
 
 **一句话评价：** 光年梯以「梯」为名，月付约 18–130 元覆盖入门到至尊，并提供独享私人专线节点，另有限时年付包，可按用量逐档升级。
 
@@ -546,7 +572,7 @@
 
 🔗 [详细评测](https://tizinodes.com/reviews/guangnianti)　｜　[官网可用性检测](https://tizinodes.com/airport-test/guangnianti)　｜　[前往官网 ↗](https://tizinodes.com/go/guangnianti)
 
-### 二十一、一翻云（IEPL/IPLC/中转 ｜ ¥20/月起）
+### 二十二、一翻云（IEPL/IPLC/中转 ｜ ¥20/月起）
 
 **一句话评价：** 一翻云 官方节点，稳定高速
 
@@ -572,7 +598,7 @@
 
 🔗 [详细评测](https://tizinodes.com/reviews/1fly)　｜　[官网可用性检测](https://tizinodes.com/airport-test/1fly)　｜　[前往官网 ↗](https://tizinodes.com/go/1fly)
 
-### 二十二、U1S1（IEPL/IPLC/中转 ｜ ¥20/月起）
+### 二十三、U1S1（IEPL/IPLC/中转 ｜ ¥20/月起）
 
 **一句话评价：** U1S1 的套餐命名偏口语化（如「普通人真够了包」「我全都要包」），月付约 20–180 元，并设有按需的「定制包」，风格较为年轻化，档位跨度较大。
 
@@ -596,7 +622,7 @@
 
 🔗 [详细评测](https://tizinodes.com/reviews/u1s1)　｜　[官网可用性检测](https://tizinodes.com/airport-test/u1s1)　｜　[前往官网 ↗](https://tizinodes.com/go/u1s1)
 
-### 二十三、全球云（IEPL/IPLC/中转 ｜ ¥20/月起）
+### 二十四、全球云（IEPL/IPLC/中转 ｜ ¥20/月起）
 
 **一句话评价：** 全球云主打「BGP 智能优化」系列月付方案（约 20–180 元），并提供独享私人专线节点选项，套餐设计更偏向进阶与商业用途。
 
@@ -620,7 +646,7 @@
 
 🔗 [详细评测](https://tizinodes.com/reviews/quanqiuyun)　｜　[官网可用性检测](https://tizinodes.com/airport-test/quanqiuyun)　｜　[前往官网 ↗](https://tizinodes.com/go/quanqiuyun)
 
-### 二十四、sogo云（IEPL/IPLC/中转 ｜ ¥25/月起）
+### 二十五、sogo云（IEPL/IPLC/中转 ｜ ¥25/月起）
 
 **一句话评价：** SOGO云套餐数量较多：除月付约 25–150 元的四档外，另有四档一次性「不限时版」（120–1000GB），月付与买断双轨，适合偏好一次付费的用户比较挑选。
 
@@ -647,7 +673,7 @@
 
 🔗 [详细评测](https://tizinodes.com/reviews/sogoyun)　｜　[官网可用性检测](https://tizinodes.com/airport-test/sogoyun)　｜　[前往官网 ↗](https://tizinodes.com/go/sogoyun)
 
-### 二十五、速界（IEPL/IPLC/中转 ｜ ¥25/月起）
+### 二十六、速界（IEPL/IPLC/中转 ｜ ¥25/月起）
 
 **一句话评价：** 速界以速度为主题命名（极速 / 超速 / 光速 / 跃迁），月付约 25–200 元五档，流量从 120GB 到 1000GB，档位递进明确，便于按需要往上加。
 
@@ -670,7 +696,7 @@
 
 🔗 [详细评测](https://tizinodes.com/reviews/sujie)　｜　[官网可用性检测](https://tizinodes.com/airport-test/sujie)　｜　[前往官网 ↗](https://tizinodes.com/go/sujie)
 
-### 二十六、可信云（IEPL/IPLC/中转 ｜ ¥15/月起）
+### 二十七、可信云（IEPL/IPLC/中转 ｜ ¥15/月起）
 
 **一句话评价：** 可信云同时提供月付（约 15–200 元）、年付小包与一次性轻量包，入门有 15 元月付小包，付费方式选择较多，适合想灵活试用的用户。
 
